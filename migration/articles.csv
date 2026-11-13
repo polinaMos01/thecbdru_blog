@@ -1,5 +1,5 @@
 article_id,url,title,priority,status,claim_ids,product_ids,reviewer,updated_at,blockers
-A001,,,,awaiting_input,,,,,Нужен подтверждённый URL; список 135 статей не импортирован
+A001,https://thecbd.ru/blog/zdorove-zhivotnykh/kak-pomoch-kotenku-privyknut-k-novomu-domu-kak-oblegchit-pereezd-i-privykanie/,Как помочь котёнку привыкнуть к новому дому,high,fact_check,C005,MP-IS-P600,,2026-11-13,Ветеринарная проверка; возрастные ограничения и документы SKU; правовая проверка РФ
 A002,,,,awaiting_input,,,,,Нужен подтверждённый URL; список 135 статей не импортирован
 A003,,,,awaiting_input,,,,,Нужен подтверждённый URL; список 135 статей не импортирован
 A004,,,,awaiting_input,,,,,Нужен подтверждённый URL; список 135 статей не импортирован
