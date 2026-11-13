@@ -1,6 +1,6 @@
 article_id,url,title,priority,status,claim_ids,product_ids,reviewer,updated_at,blockers
 A001,https://thecbd.ru/blog/zdorove-zhivotnykh/kak-pomoch-kotenku-privyknut-k-novomu-domu-kak-oblegchit-pereezd-i-privykanie/,Как помочь кошке или коту привыкнуть к новому дому,high,fact_check,C005;C006;C007,MP-IS-P600,,2026-11-13,Версия 4 дописана; режим питомца в калькуляторе проверен; взрослые кошки/коты от 2 кг; нужны продуктовая и ветеринарная/правовая проверка
-A002,https://thecbd.ru/blog/nevrologiya/cbd-v-nevrologii/,CBD в неврологии: почему его изучают и что уже удалось выяснить,high,fact_check,C008;C009;C010;C011;C012,MP-IS-10;CS-IS-CA-100,,2026-11-13,Медицинская и правовая проверка; категория и документы SKU; врачебная цитата в коммерческом контексте
+A002,https://thecbd.ru/blog/nevrologiya/cbd-v-nevrologii/,Какие болезни относятся к сфере неврологии и как их распознать,high,fact_check,C013;C014;C015;C016;C017;C018;C019;C020;C021;C001;C002;C011;C012,MP-IS-10;CS-IS-CA-100,,2026-11-13,Медицинская проверка; документы и категория SKU; правовая оценка коммерческой подачи и экспертной цитаты
 A003,,,,awaiting_input,,,,,Нужен подтверждённый URL; список 135 статей не импортирован
 A004,,,,awaiting_input,,,,,Нужен подтверждённый URL; список 135 статей не импортирован
 A005,,,,awaiting_input,,,,,Нужен подтверждённый URL; список 135 статей не импортирован
